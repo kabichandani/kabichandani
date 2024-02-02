@@ -30,8 +30,12 @@ I'm Khushboo Abichandani, a data enthusiast working with large complex data in t
 ## Skills
 
 **Data Programming and Database Management:** Python (NumPy, pandas, matplotlib, seaborn, sklearn, nltk), SQL <br>
-**AWS Services:** S3, Athena, SageMaker, Lambda, DMS, Step Functions, Glue, Service Catalog, EMR, SQS, SNS.<br>
 **Machine Learning:** Data Exploration, Manipulation. Supervised and unsupervised learning algorithms <br>
+**Languages:** SAS, MySQL, PLSQL, PostgreSQL, Python, R Programming, Tableau, C++, HTML, Oracle RDMS <br>
+**Analytics:**  Python (Pandas, NumPy, scikit-learn) Market Analysis, Machine learning, Statistical analysis, Sentimental analysis, Trend analysis <br>
+**Machine Learning:** Supervised and Unsupervised learning, Sampling Method, Text Mining, Linear Regression, NLP,  Decision Tree, Naïve Bayes <br>
+**Visualization:** Tableau, Advanced Excel, Alteryx, Power BI, Microsoft Power Query, Credit Score Analysis, PowerPoint <br>
+**Other:** Statistics, Risk Management, Fraud detection, Project Management, Business Analysis, Problem-Solving skills, Business strategy analysis <br>
 
 ## Connect with me 
 
